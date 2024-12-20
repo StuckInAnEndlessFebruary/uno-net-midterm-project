@@ -1,0 +1,5 @@
+green:8
+0,yellow:skip|black:wildcard|red:reverse|red:skip|green:6|green:0|yellow:8
+1,green:5|blue:reverse|red:6|yellow:3|green:2|blue:3|blue:skip
+player1,player0
+0
